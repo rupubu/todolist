@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "todolist"
+    }
+  },
+  "defaultProject": "todolist",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
